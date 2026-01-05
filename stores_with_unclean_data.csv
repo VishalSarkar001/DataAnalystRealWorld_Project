@@ -1,0 +1,221 @@
+store_id,store_name,store_city,store_region,opening_date
+1,Store_001,Chennai,Rajasthan,2011-06-11
+2,Store_002,Kolkata,Rajasthan,2017-03-08
+3,Store_003,Mumbai,@@@INVALID@@@,2020-02-18
+4,Store_004,Kolkata,Karnataka,2018-09-26
+5,Store_005,Chennai,Delhi NCR,2011-03-04
+1,Store_006,Bengaluru,Tamil Nadu,2010-12-30
+7,Store_007,Ahmedabad,Maharashtra,2019-07-29
+8,,Jaipur,Tamil Nadu,2016-11-30
+9,Store_009,Kolkata,Tamil Nadu,2016-11-10
+10,Store_010,Chennai,Maharashtra,2011-03-25
+11,Store_011,Mumbai,Gujarat,2024-01-24
+12,Store_012,Chennai,Telangana,2035-01-01
+13,Store_013,Hyderabad,Maharashtra,2022-07-08
+14,Store_014,Mumbai,Rajasthan,2024-03-25
+15,Store_015,Hyderabad,Delhi NCR,2015-10-29
+16,Store_016,Mumbai,Karnataka,2016-08-24
+17,Store_017,Surat,Delhi NCR,2010-12-17
+18,Store_018,Kolkata,West Bengal,2015-08-18
+19,Store_019,Kolkata,Delhi NCR,2015-12-09
+20,Store_020,Pune,Delhi NCR,2015-02-14
+21,Store_021,Ahmedabad,Telangana,2023-01-13
+22,Store_022,Jaipur,Gujarat,2024-08-25
+23,Store_023,Ahmedabad,West Bengal,2024-09-02
+24,Store_024,Jaipur,Karnataka,2022-04-13
+25,Store_025,Delhi,Gujarat,2021-09-09
+26,Store_026,Pune,@@@INVALID@@@,2023-02-23
+27,Store_027,Jaipur,@@@INVALID@@@,2022-10-28
+28,Store_028,Chennai,Delhi NCR,2021-11-03
+1,Store_029,Pune,Maharashtra,2016-07-01
+30,Store_030,Bengaluru,Delhi NCR,2018-12-17
+31,Store_031,Ahmedabad,Rajasthan,2035-01-01
+32,Store_032,Pune,West Bengal,2014-07-16
+33,Store_033,Hyderabad,Gujarat,2010-04-25
+34,Store_034,,Telangana,2020-09-13
+35,Store_035,Bengaluru,Telangana,2010-12-03
+36,Store_036,Ahmedabad,Tamil Nadu,2014-06-19
+37,Store_037,Hyderabad,Maharashtra,2020-02-24
+38,Store_038,Hyderabad,Telangana,2017-07-25
+39,Store_039,Mumbai,Tamil Nadu,2019-08-15
+40,Store_040,Kolkata,Gujarat,2021-03-03
+41,Store_041,Jaipur,Rajasthan,2010-11-01
+1,Store_042,Ahmedabad,Karnataka,2018-08-19
+43,Store_043,Mumbai,Delhi NCR,2018-04-02
+44,Store_044,Hyderabad,Tamil Nadu,2017-08-06
+45,Store_045,Hyderabad,West Bengal,2021-01-05
+46,Store_046,Chennai,West Bengal,2015-04-09
+47,Store_047,Chennai,Rajasthan,2024-03-30
+48,Store_048,Chennai,Karnataka,2012-04-02
+49,Store_049,Chennai,Delhi NCR,2024-03-28
+50,Store_050,Ahmedabad,Karnataka,2017-08-21
+51,Store_051,Mumbai,Telangana,2018-07-08
+52,Store_052,Hyderabad,West Bengal,2019-02-08
+1,Store_053,Delhi,Tamil Nadu,2023-03-07
+54,Store_054,Delhi,Maharashtra,2017-06-21
+55,Store_055,Hyderabad,Delhi NCR,2013-01-29
+56,Store_056,Delhi,Maharashtra,2019-04-16
+57,Store_057,Pune,Gujarat,2022-06-18
+58,Store_058,Kolkata,West Bengal,2019-07-23
+59,Store_059,Chennai,Delhi NCR,2015-05-03
+60,Store_060,Bengaluru,Rajasthan,2011-03-18
+61,Store_061,Ahmedabad,Telangana,2017-11-16
+62,Store_062,Hyderabad,Karnataka,2021-06-26
+63,Store_063,Mumbai,Karnataka,2013-02-10
+64,Store_064,Surat,West Bengal,2015-03-05
+65,Store_065,Kolkata,Tamil Nadu,2035-01-01
+1,Store_066,Kolkata,Gujarat,2022-05-27
+67,Store_067,Ahmedabad,Delhi NCR,2018-08-25
+68,,Ahmedabad,Tamil Nadu,2013-06-21
+69,Store_069,Bengaluru,Rajasthan,2020-10-21
+70,Store_070,Kolkata,Rajasthan,2013-07-04
+71,Store_071,Chennai,Tamil Nadu,2011-06-15
+72,Store_072,Ahmedabad,Maharashtra,2035-01-01
+73,Store_073,Chennai,Tamil Nadu,2012-07-28
+74,Store_074,Hyderabad,West Bengal,2035-01-01
+75,Store_075,Delhi,Rajasthan,2021-12-11
+76,Store_076,Hyderabad,Telangana,2020-10-25
+77,Store_077,Jaipur,West Bengal,2022-12-11
+78,Store_078,Ahmedabad,Tamil Nadu,2023-07-18
+79,Store_079,Kolkata,Maharashtra,2024-09-04
+80,Store_080,Kolkata,Gujarat,2012-03-23
+81,Store_081,Kolkata,Delhi NCR,2015-08-10
+82,Store_082,Bengaluru,Telangana,2019-09-23
+83,Store_083,Chennai,Delhi NCR,2020-03-06
+84,Store_084,Delhi,Delhi NCR,2024-08-12
+85,Store_085,Delhi,Delhi NCR,2015-05-18
+86,Store_086,Chennai,West Bengal,2019-10-03
+87,Store_087,Ahmedabad,Rajasthan,2011-07-07
+88,Store_088,Ahmedabad,Rajasthan,2022-07-21
+89,Store_089,Mumbai,Telangana,2021-09-05
+1,Store_090,Mumbai,Delhi NCR,2019-09-08
+91,Store_091,Chennai,Maharashtra,2022-03-24
+92,Store_092,Ahmedabad,Telangana,2014-03-02
+93,Store_093,Delhi,Rajasthan,2011-09-29
+94,Store_094,,Karnataka,2016-07-09
+95,Store_095,,Rajasthan,2012-06-15
+96,,Hyderabad,Karnataka,2018-01-31
+97,Store_097,Ahmedabad,West Bengal,2014-08-19
+98,Store_098,Ahmedabad,Maharashtra,2020-07-21
+99,Store_099,Ahmedabad,@@@INVALID@@@,2019-09-26
+100,Store_100,Jaipur,West Bengal,2016-09-01
+101,Store_101,Bengaluru,Telangana,2010-02-24
+102,Store_102,Mumbai,Delhi NCR,2010-05-12
+103,Store_103,Hyderabad,Rajasthan,2011-09-20
+104,Store_104,Jaipur,West Bengal,2015-04-21
+105,Store_105,Pune,Rajasthan,2014-09-22
+106,Store_106,Pune,Gujarat,2018-09-11
+107,Store_107,Ahmedabad,Maharashtra,2010-02-03
+108,,Pune,Telangana,2022-12-06
+109,Store_109,Bengaluru,Telangana,2020-08-07
+110,Store_110,Delhi,West Bengal,2022-08-19
+111,Store_111,Pune,Tamil Nadu,2011-08-12
+112,Store_112,Bengaluru,Tamil Nadu,2015-10-20
+113,Store_113,Bengaluru,Gujarat,2016-07-15
+114,Store_114,Ahmedabad,West Bengal,2017-07-26
+115,Store_115,Delhi,Karnataka,2017-05-11
+116,Store_116,Kolkata,Rajasthan,2022-12-12
+117,Store_117,Pune,Maharashtra,2010-10-26
+118,Store_118,Bengaluru,Tamil Nadu,2010-04-18
+119,Store_119,Chennai,Karnataka,2012-06-24
+120,Store_120,Bengaluru,Rajasthan,2024-06-23
+121,Store_121,Kolkata,Gujarat,2017-01-22
+122,Store_122,Bengaluru,Gujarat,2012-09-05
+123,Store_123,Ahmedabad,Gujarat,2024-08-16
+124,Store_124,Kolkata,Gujarat,2018-03-04
+125,Store_125,Pune,Delhi NCR,2018-06-09
+126,Store_126,Mumbai,Gujarat,2012-07-02
+127,Store_127,Hyderabad,Telangana,2021-02-21
+128,Store_128,Mumbai,Karnataka,2013-03-20
+129,Store_129,Delhi,Rajasthan,2016-01-02
+130,Store_130,Mumbai,Delhi NCR,2017-10-06
+131,Store_131,Bengaluru,Maharashtra,2011-11-09
+132,Store_132,Hyderabad,Gujarat,2017-07-10
+133,Store_133,Chennai,Rajasthan,2023-04-10
+134,Store_134,Bengaluru,Delhi NCR,2011-11-29
+135,Store_135,Surat,Gujarat,2013-03-10
+136,Store_136,Hyderabad,Telangana,2018-09-02
+137,Store_137,Surat,Delhi NCR,2021-10-15
+138,Store_138,Hyderabad,Gujarat,2019-07-26
+139,Store_139,Hyderabad,Delhi NCR,2013-03-28
+140,Store_140,Pune,Tamil Nadu,2019-06-08
+141,,Surat,West Bengal,2019-06-27
+142,Store_142,Delhi,Karnataka,2024-04-19
+143,Store_143,Delhi,Maharashtra,2015-12-11
+144,Store_144,Hyderabad,Telangana,2021-11-02
+145,Store_145,Hyderabad,Gujarat,2015-10-21
+146,Store_146,Jaipur,Delhi NCR,2013-11-28
+147,Store_147,Hyderabad,Telangana,2013-05-05
+148,Store_148,Surat,Delhi NCR,2011-06-22
+149,Store_149,Delhi,Maharashtra,2024-03-02
+150,Store_150,Ahmedabad,Maharashtra,2024-12-06
+151,,Mumbai,Tamil Nadu,2017-02-21
+152,Store_152,Hyderabad,Maharashtra,2014-12-23
+153,Store_153,Chennai,Telangana,2015-08-16
+154,Store_154,Mumbai,Rajasthan,2011-09-21
+155,Store_155,Mumbai,Karnataka,2015-06-19
+156,Store_156,Bengaluru,Tamil Nadu,2011-09-29
+157,Store_157,Surat,Delhi NCR,2018-07-25
+158,Store_158,Kolkata,Karnataka,2013-09-10
+159,Store_159,Ahmedabad,Karnataka,2015-07-21
+160,Store_160,Chennai,Karnataka,2014-04-14
+161,Store_161,Surat,Delhi NCR,2019-11-14
+162,Store_162,Mumbai,Tamil Nadu,2014-05-06
+163,Store_163,Bengaluru,Maharashtra,2020-02-26
+164,Store_164,Jaipur,Tamil Nadu,2012-03-07
+165,Store_165,Kolkata,Delhi NCR,2022-04-06
+166,Store_166,Ahmedabad,Karnataka,2010-08-01
+167,Store_167,Mumbai,Telangana,2020-12-24
+168,Store_168,Jaipur,Delhi NCR,2015-04-08
+169,Store_169,Mumbai,Tamil Nadu,2013-11-16
+170,Store_170,Chennai,Karnataka,2023-09-15
+1,Store_171,Mumbai,West Bengal,2019-01-10
+172,Store_172,Bengaluru,Maharashtra,2013-09-25
+173,Store_173,Delhi,Delhi NCR,2016-10-14
+174,Store_174,Hyderabad,Tamil Nadu,2011-02-12
+175,Store_175,Ahmedabad,Rajasthan,2012-07-03
+176,Store_176,Mumbai,Delhi NCR,2012-04-24
+177,Store_177,Surat,Karnataka,2024-01-04
+178,Store_178,Mumbai,Karnataka,2021-04-11
+179,Store_179,Delhi,West Bengal,2014-08-28
+180,Store_180,Bengaluru,West Bengal,2018-11-22
+181,Store_181,Pune,Tamil Nadu,2023-03-24
+182,Store_182,Jaipur,Karnataka,2016-11-18
+183,Store_183,Hyderabad,Delhi NCR,2013-10-04
+184,Store_184,Mumbai,Karnataka,2014-11-22
+185,Store_185,Bengaluru,Tamil Nadu,2022-10-20
+186,Store_186,Chennai,Tamil Nadu,2023-12-02
+187,Store_187,Ahmedabad,Karnataka,2012-08-03
+188,Store_188,Bengaluru,Delhi NCR,2035-01-01
+189,Store_189,Jaipur,Karnataka,2010-03-17
+190,Store_190,Ahmedabad,Tamil Nadu,2012-03-21
+191,Store_191,Bengaluru,Gujarat,2010-12-13
+192,Store_192,Mumbai,Delhi NCR,2010-11-22
+193,Store_193,Chennai,Telangana,2010-07-26
+194,Store_194,Jaipur,Karnataka,2014-07-10
+195,Store_195,Surat,@@@INVALID@@@,2022-08-19
+196,,Hyderabad,Maharashtra,2022-11-03
+197,Store_197,Bengaluru,Gujarat,2022-05-25
+198,Store_198,Chennai,Maharashtra,2035-01-01
+199,Store_199,Delhi,Telangana,2014-04-12
+200,Store_200,Delhi,Gujarat,2014-09-24
+201,Store_201,Chennai,Delhi NCR,2010-08-09
+202,Store_202,Bengaluru,@@@INVALID@@@,2010-09-18
+203,Store_203,Chennai,Telangana,2010-07-26
+204,Store_204,Bengaluru,West Bengal,2023-05-22
+205,Store_205,Jaipur,Karnataka,2017-04-26
+206,Store_206,,Tamil Nadu,2021-05-20
+207,Store_207,Bengaluru,Delhi NCR,2014-12-05
+208,Store_208,Jaipur,Delhi NCR,2011-03-21
+209,Store_209,Jaipur,Delhi NCR,2024-09-01
+210,Store_210,Delhi,West Bengal,2018-05-05
+211,Store_211,Bengaluru,Karnataka,2023-04-09
+212,Store_212,,Maharashtra,2013-10-12
+213,Store_213,Bengaluru,Rajasthan,2017-03-16
+214,Store_214,Jaipur,Karnataka,2010-04-16
+215,Store_215,,Rajasthan,2018-10-29
+216,Store_216,Bengaluru,Karnataka,2021-09-16
+217,Store_217,Pune,Tamil Nadu,2010-03-19
+218,Store_218,Pune,Rajasthan,2014-12-13
+219,Store_219,Delhi,Maharashtra,2022-05-15
+220,Store_220,Bengaluru,Telangana,2024-05-10

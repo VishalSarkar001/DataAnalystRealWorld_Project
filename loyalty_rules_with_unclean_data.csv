@@ -1,0 +1,171 @@
+rule_id,rule_name,points_per_unit_spend,min_spend_threshold,bonus_points
+1,Festive Offer,9.04,321.38,242
+2,In-Store Exclusive,7.75,3911.39,636
+3,Standard Earning,3.54,4054.2,908
+1,Festive Offer,9.71,4936.77,758
+5,Online Order Bonus,3.9,1947.5,861
+6,Weekend Bonus,1.0,3452.75,45
+7,Online Order Bonus,2.21,4085.08,1000
+8,Festive Offer,7.38,1541.22,990
+9,Electronics Booster,3.08,1529.36,695
+10,High Spender Bonus,1.02,4367.94,142
+11,Clearance Sale Bonus,6.46,1977.96,392
+12,Online Order Bonus,2.1,4590.85,148
+13,Standard Earning,7.39,4467.01,432
+14,Weekend Bonus,2.97,3735.35,752
+15,New Customer Promo,8.96,1481.34,578
+16,Weekend Bonus,0.91,4180.67,751
+17,Electronics Booster,9.06,3847.54,576
+18,In-Store Exclusive,1.44,2477.25,784
+19,Electronics Booster,8.88,1910.64,595
+20,Standard Earning,4.85,2541.16,669
+21,Standard Earning,3.81,4953.81,771
+22,Online Order Bonus,5.12,2605.67,383
+23,In-Store Exclusive,0.99,2858.75,694
+24,Weekend Bonus,7.82,4789.59,174
+25,Festive Offer,4.01,570.12,409
+26,Online Order Bonus,0.85,2352.5,207
+27,Birthday Special,4.7,69.91,249
+28,Online Order Bonus,4.44,1592.79,687
+29,Birthday Special,0.89,2770.07,271
+30,Electronics Booster,9.77,930.94,463
+31,Birthday Special,7.57,2124.83,148
+32,Festive Offer,7.22,4343.0,243
+33,Clearance Sale Bonus,7.31,8.51,38
+34,Online Order Bonus,8.58,3521.81,394
+35,High Spender Bonus,1.11,1964.29,267
+36,New Customer Promo,4.47,1120.06,855
+37,Festive Offer,7.85,1174.73,8
+38,Festive Offer,3.58,1449.19,75
+39,Online Order Bonus,7.0,4702.19,760
+40,New Customer Promo,9.9,4026.8,388
+41,Birthday Special,7.13,2029.83,266
+1,In-Store Exclusive,1.31,3650.71,341
+43,Birthday Special,1.44,483.94,424
+44,Clearance Sale Bonus,4.89,1010.59,436
+45,Festive Offer,8.74,1189.23,40
+46,Standard Earning,5.75,1937.69,910
+1,New Customer Promo,4.23,1673.14,718
+48,Online Order Bonus,1.84,693.79,913
+49,Online Order Bonus,9.71,1233.33,236
+50,Electronics Booster,7.85,379.08,790
+51,Clearance Sale Bonus,5.75,503.19,978
+52,Online Order Bonus,3.35,1808.05,597
+53,Standard Earning,7.69,2408.99,21
+54,High Spender Bonus,3.34,323.85,171
+55,Online Order Bonus,3.32,3209.61,886
+56,Weekend Bonus,8.52,1889.12,560
+57,Weekend Bonus,1.01,2662.82,384
+58,Birthday Special,5.08,4011.58,872
+59,Electronics Booster,5.98,4136.69,542
+60,Festive Offer,6.24,1102.4,675
+61,High Spender Bonus,6.72,2191.76,710
+62,Electronics Booster,1.35,1249.7,762
+63,Online Order Bonus,-1.0,1525.14,607
+64,Online Order Bonus,9.06,2713.75,464
+65,Weekend Bonus,6.35,3257.47,941
+66,Weekend Bonus,8.2,3938.28,872
+67,Festive Offer,8.6,1099.38,567
+1,Online Order Bonus,0.88,4852.38,549
+69,Standard Earning,5.82,2959.14,533
+70,High Spender Bonus,1.31,2158.85,744
+71,Festive Offer,1.76,3130.46,869
+72,Birthday Special,2.27,243.02,684
+73,In-Store Exclusive,9.37,3734.57,262
+74,Standard Earning,1.54,4949.42,617
+75,In-Store Exclusive,3.77,2599.05,211
+76,Online Order Bonus,2.03,2648.47,444
+77,Standard Earning,8.91,1486.63,709
+78,Birthday Special,9.88,735.24,830
+79,Standard Earning,7.58,79.77,78
+80,Standard Earning,8.69,4335.64,469
+81,Standard Earning,2.5,2224.2,396
+82,Online Order Bonus,9.13,20.19,415
+83,In-Store Exclusive,8.78,3299.6,887
+84,Clearance Sale Bonus,1.14,1008.93,833
+85,Clearance Sale Bonus,3.05,1742.88,264
+86,New Customer Promo,4.76,2571.66,918
+87,New Customer Promo,7.49,1606.22,335
+88,Electronics Booster,0.91,2886.2,183
+89,Standard Earning,3.68,65.7,320
+90,Weekend Bonus,8.27,4514.65,559
+91,Standard Earning,6.63,4704.59,884
+92,New Customer Promo,3.88,2281.52,850
+93,Weekend Bonus,9.09,,222
+94,Clearance Sale Bonus,7.98,2416.99,76
+95,Birthday Special,6.92,4251.16,132
+96,In-Store Exclusive,7.4,557.59,404
+97,Online Order Bonus,8.08,4625.11,157
+98,New Customer Promo,1.86,494.87,274
+99,High Spender Bonus,9.81,1730.83,337
+100,High Spender Bonus,9.07,2015.03,691
+101,New Customer Promo,2.98,2958.42,765
+102,New Customer Promo,6.96,,655
+103,Clearance Sale Bonus,1.85,2065.44,395
+104,In-Store Exclusive,8.6,3375.67,538
+105,Birthday Special,4.98,1968.06,73
+106,High Spender Bonus,5.17,2102.93,840
+107,Electronics Booster,4.52,1652.1,652
+108,Weekend Bonus,2.02,1324.88,963
+109,Birthday Special,8.17,2639.15,456
+110,Festive Offer,8.31,2742.18,818
+111,Weekend Bonus,2.16,3088.93,852
+112,Birthday Special,9.8,2926.96,67
+113,Weekend Bonus,6.76,3158.31,641
+114,High Spender Bonus,6.82,1279.76,326
+115,Birthday Special,1.83,1433.11,256
+116,High Spender Bonus,0.54,907.91,813
+117,Electronics Booster,7.64,1473.84,79
+118,In-Store Exclusive,7.85,4373.83,974
+119,Birthday Special,8.04,1564.75,916
+120,Online Order Bonus,3.8,1370.04,365
+121,Electronics Booster,6.92,3074.6,82
+122,Clearance Sale Bonus,8.0,1255.08,367
+123,In-Store Exclusive,-1.0,4701.26,4
+124,Festive Offer,1.42,360.35,559
+125,Online Order Bonus,3.5,3676.15,659
+126,Online Order Bonus,8.6,2081.46,501
+127,Standard Earning,-1.0,668.45,310
+128,High Spender Bonus,2.99,4104.17,344
+129,In-Store Exclusive,6.66,4424.56,998
+130,In-Store Exclusive,5.56,1153.02,374
+131,High Spender Bonus,2.08,,526
+132,Weekend Bonus,3.37,1444.1,883
+133,Standard Earning,6.83,3393.22,114
+134,High Spender Bonus,6.81,4172.32,105
+135,In-Store Exclusive,8.93,3122.96,921
+136,High Spender Bonus,4.02,4178.98,73
+137,Electronics Booster,2.47,1725.4,405
+138,Clearance Sale Bonus,8.37,2948.55,53
+139,New Customer Promo,9.42,1533.89,101
+140,High Spender Bonus,1.84,1649.38,223
+141,New Customer Promo,3.32,1295.54,946
+142,In-Store Exclusive,5.61,3344.26,346
+143,Weekend Bonus,7.11,38.86,775
+144,New Customer Promo,0.59,,768
+145,New Customer Promo,-1.0,3271.7,189
+146,Weekend Bonus,0.88,1436.11,415
+147,Standard Earning,9.92,3221.88,206
+148,In-Store Exclusive,-1.0,2111.09,586
+149,New Customer Promo,6.01,4488.85,696
+150,Festive Offer,5.72,1592.52,426
+151,Electronics Booster,8.9,4544.55,978
+152,Clearance Sale Bonus,2.5,395.96,824
+153,New Customer Promo,4.2,1362.06,443
+154,Standard Earning,3.69,2984.32,651
+155,New Customer Promo,7.43,4998.41,873
+156,Festive Offer,8.64,1717.1,224
+157,Standard Earning,5.56,4900.95,8
+158,Weekend Bonus,6.71,488.02,380
+159,New Customer Promo,9.48,2957.99,861
+160,High Spender Bonus,2.1,246.11,950
+161,Standard Earning,3.84,1329.51,44
+162,Birthday Special,9.81,4432.87,343
+163,Online Order Bonus,4.85,3653.95,9
+164,Clearance Sale Bonus,1.02,338.46,564
+165,New Customer Promo,4.59,4213.91,148
+166,Birthday Special,2.39,3526.98,984
+167,Online Order Bonus,1.87,3289.72,128
+168,Birthday Special,6.68,4277.46,441
+169,New Customer Promo,4.93,259.1,143
+170,Birthday Special,8.44,4694.7,981
